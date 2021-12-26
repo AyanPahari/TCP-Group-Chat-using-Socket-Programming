@@ -31,5 +31,5 @@ Running the Client:
 - User_Name is just a unique identity for the Client
 ## Screenshots
 
-![Output Screenshot](output.jpg)
+![Output Screenshot](https://github.com/AyanPahari/TCP-Group-Chat-using-Socket-Programming/blob/master/output.JPG)
 
